@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qt/qml/Main">
+        <file>main.qml</file>
+        <file>LiveClock.qml</file>
+        <file>InteractiveClock.qml</file>
+    </qresource>
+</RCC>
